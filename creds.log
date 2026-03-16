@@ -1,0 +1,21 @@
+127.0.0.1, hacker, 123456
+Command b'whoami'executed by127.0.0.1
+Command b'pwd'executed by127.0.0.1
+Command b'ls'executed by127.0.0.1
+Command b'cat jumpbox1.conf'executed by127.0.0.1
+127.0.0.1, admin, admin123
+Command b'whoareyou'executed by127.0.0.1
+Command b'whatswithyou'executed by127.0.0.1
+Command b'jumbaxhye'executed by127.0.0.1
+Command b'hola123'executed by127.0.0.1
+127.0.0.1, root, toor
+Command b'guessme'executed by127.0.0.1
+Command b'knowme'executed by127.0.0.1
+Command b'guesswhat'executed by127.0.0.1
+127.0.0.1, test, whoamii
+Command b'heyhello'executed by127.0.0.1
+Command b'sayswho'executed by127.0.0.1
+127.0.0.1, wordpress, nowhere
+Command b'jacks'executed by127.0.0.1
+Command b'ismyname'executed by127.0.0.1
+Command b'i\x7fswear'executed by127.0.0.1

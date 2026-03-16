@@ -1,8 +1,5 @@
-Client127.0.0.1 attempted connection with username:username,password:password
-Client127.0.0.1 attempted connection with username:username,password:password
-Client127.0.0.1 attempted connection with username:username,password:log
-Client127.0.0.1 attempted connection with username:username,password:py
-Client127.0.0.1 attempted connection with username:username,password:password
-Client127.0.0.1 attempted connection with username:username,password:password
-Client127.0.0.1 attempted connection with username:username,password:password
-Client127.0.0.1 attempted connection with username:username,password:password
+Client127.0.0.1 attempted connection with username:hacker,password:123456
+Client127.0.0.1 attempted connection with username:admin,password:admin123
+Client127.0.0.1 attempted connection with username:root,password:toor
+Client127.0.0.1 attempted connection with username:test,password:whoamii
+Client127.0.0.1 attempted connection with username:wordpress,password:nowhere
