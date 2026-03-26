@@ -3,3 +3,5 @@ Client127.0.0.1 attempted connection with username:admin,password:admin123
 Client127.0.0.1 attempted connection with username:root,password:toor
 Client127.0.0.1 attempted connection with username:test,password:whoamii
 Client127.0.0.1 attempted connection with username:wordpress,password:nowhere
+Client127.0.0.1 attempted connection with username:fakeuser,password:whoami
+Client127.0.0.1 attempted connection with username:admin,password:admin585
